@@ -1,0 +1,27 @@
+body {
+    margin: 20px;
+  
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.avatar {
+    width: 170px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #EEF5DB;
+    color: #0E131F;
+    border-bottom: 5px solid #934B00;
+    border-left: 4px solid #934B00;
+    border-radius: 10px;
+}
+
+.s {
+    color :#934B00;
+}
